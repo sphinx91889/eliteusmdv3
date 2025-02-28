@@ -31,9 +31,9 @@ export default function FeaturedClinicSection() {
             </p>
             
             <p className="text-primary-dark mb-6">
-              Since then, she has maintained the same medical director while 
+              Since then, they have maintained the same medical director while 
               successfully expanding to multiple clinics, generating significant 
-              annual revenue. Our medical director continues to ensure that she 
+              annual revenue. Our medical director continues to ensure that the practice 
               meets all state legal and compliance requirements.
             </p>
             
