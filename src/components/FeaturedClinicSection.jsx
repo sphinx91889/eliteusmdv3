@@ -24,9 +24,9 @@ export default function FeaturedClinicSection() {
             </h3>
             
             <p className="text-primary-dark mb-6">
-              Medical Director Co. assisted Kiara in launching her medspa, 
-              Spade Medical Spa, by pairing her with a qualified medical director 
-              and providing essential compliance documents when she began her journey 
+              Medical Director Co. assisted in launching the medspa, 
+              Spade Medical Spa, by pairing the practice with a qualified medical director 
+              and providing essential compliance documents when they began the journey 
               with a single location.
             </p>
             
