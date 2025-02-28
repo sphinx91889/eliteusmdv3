@@ -1,4 +1,4 @@
-import React from 'react'
+iteimport React from 'react'
 import { Link } from 'react-router-dom'
 
 export default function FeaturedClinicSection() {
@@ -24,7 +24,7 @@ export default function FeaturedClinicSection() {
             </h3>
             
             <p className="text-primary-dark mb-6">
-              Medical Director Co. assisted in launching the medspa, 
+              EliteUSMD assisted in launching the medspa, 
               Spade Medical Spa, by pairing the practice with a qualified medical director 
               and providing essential compliance documents when they began the journey 
               with a single location.
